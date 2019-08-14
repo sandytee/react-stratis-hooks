@@ -24,7 +24,7 @@ const useProperties = () => {
     //     }
     //     return resident_names
     // }
-    // I have decided to break these into 3 different components. One to handle searching by unit and one to handle searching by people's name
+    // I have decided to break these into 3 different functions. One to handle searching by unit and one to handle searching by people's name
 
     // When searching by unit, it should return a list of people living in the unit
     const searchByUnit = (unitNum) => {        
